@@ -1,7 +1,7 @@
 ﻿# VAHO-Ecommerce Website
 ## 🛍️ Overview
 This is a fully responsive eCommerce website built using **HTML** and **CSS**. It is a front-end design showcasing a modern online shopping platform. The project is inspired by a YouTube tutorial and aims to demonstrate skills in creating visually appealing and functional web layouts.
-## 🛠️ Technology Used
+### 🛠️ Technology Used
 **HTML**,
 **CSS**
 ***
@@ -12,6 +12,10 @@ This is a fully responsive eCommerce website built using **HTML** and **CSS**. I
 - __Footer Section__: Includes useful links, social media icons, and contact information.
 - __Custom Styling__: Styled using CSS for a polished and professional look.
 ***
+## 📦 Cloning Repo
+-Copy the Repository URL.
+-On the repository page, click green Code button and copy 
+       (https:/githubcomOV111OneLineSlotGame.git)
 ## Images of Website
 ![Screenshot 2024-11-23 125803](https://github.com/user-attachments/assets/3848df62-2753-4fd2-acae-811db4f0441a)
 ![Screenshot 2024-11-23 125921](https://github.com/user-attachments/assets/8972668c-29fb-48d9-9a36-be54bf0209bc)

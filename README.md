@@ -16,10 +16,11 @@ This is a fully responsive eCommerce website built using **HTML** and **CSS**. I
 - Copy the Repository URL.
 - On the repository page, click green Code button and copy 
         (https://github.com/OV111/VAHO-Website.git)
-        Then:
-           1. cd ~/Projects
-           2. git clone 'https://github.com/OV111/Login_Form_with_Validation.git'
-           3. cd Your Repository-name
+
+       Then:
+          1. cd ~/Projects
+          2. git clone 'https://github.com/OV111/OneLineSlotGame.git'
+          3. cd Your Repository-name
 
 ***
 ## Images of Website

@@ -15,7 +15,8 @@ This is a fully responsive eCommerce website built using **HTML** and **CSS**. I
 ## 📦 Cloning Repo
 - Copy the Repository URL.
 - On the repository page, click green Code button and copy 
-       (https:/githubcomOV111OneLineSlotGame.git)
+       (https://github.com/OV111/VAHO-Website.git)
+  
 ## Images of Website
 ![Screenshot 2024-11-23 125803](https://github.com/user-attachments/assets/3848df62-2753-4fd2-acae-811db4f0441a)
 ![Screenshot 2024-11-23 125921](https://github.com/user-attachments/assets/8972668c-29fb-48d9-9a36-be54bf0209bc)

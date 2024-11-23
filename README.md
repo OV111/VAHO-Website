@@ -4,6 +4,8 @@ This is a fully responsive eCommerce website built using **HTML** and **CSS**. I
 ## 🛠️ Technology Used
 **HTML**,
 **CSS**
+***
+## ✨ Features
 
 
 ![Screenshot 2024-11-23 125803](https://github.com/user-attachments/assets/3848df62-2753-4fd2-acae-811db4f0441a)
